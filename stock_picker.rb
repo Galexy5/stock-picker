@@ -5,8 +5,6 @@ A=[1,4,3,7,9,10]
 
 
 i=A.length-1
-# sell=A[A.length-1]
-# buy=A[A.length-2]
  sell=A[i]
  buy=A[i-1]
 current_profit=sell-buy
